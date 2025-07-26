@@ -35,5 +35,18 @@ Jalankan perintah berikut di terminal untuk meng-clone repository:
 ```bash
 git clone https://github.com/Kesyza15/koperasi-simpan-pinjam.git
 
-> Kemudian instalasi laravel seperti biasa
+composer install
+atau 
+composer update
 
+cp .env.example .env
+
+DB_DATABASE=nama_database
+DB_USERNAME=root
+DB_PASSWORD=
+
+php artisan key:generate
+
+php artisan migrate --seed
+
+php artisan serve
