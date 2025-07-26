@@ -34,4 +34,5 @@ Jalankan perintah berikut di terminal untuk meng-clone repository:
 
 ```bash
 git clone https://github.com/Kesyza15/koperasi-simpan-pinjam.git
-cd koperasi-simpan-pinjam
+
+> Kemudian instalasi laravel seperti biasa
