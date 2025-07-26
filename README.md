@@ -5,8 +5,7 @@ Website manajemen koperasi simpan pinjam berbasis **Framework Laravel**.
 - Manajemen data anggota koperasi
 - Pencatatan simpanan pokok, simpanan wajib, dan tabungan
 - Pengajuan dan pelunasan pinjaman
-- Riwayat transaksi dan laporan keuangan
-- Sistem autentikasi untuk admin dan anggota
+- Riwayat transaksi 
 
 # Alat yang Dibutuhkan
 Pastikan perangkat telah memiliki alat berikut:
