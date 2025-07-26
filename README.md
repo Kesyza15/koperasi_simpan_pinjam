@@ -37,4 +37,3 @@ git clone https://github.com/Kesyza15/koperasi-simpan-pinjam.git
 
 > Kemudian instalasi laravel seperti biasa
 
----
